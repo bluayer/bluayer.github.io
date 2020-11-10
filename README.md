@@ -1,11 +1,9 @@
-# bluayer.github.io
-
-[My Resume](https://bluayer.github.io/docs/resume.pdf)
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922" width="45"/>  Hey! Nice to See you </h1>
 
-<p>Welcome to my page! </br>
+<p>Welcome to my page!<br>
 I'm <b>Jungwoo Song</b>, junior backend developer from  <b>Seoul, Korea</b> 🇰🇷 </p>
+
+Do you wanna see my resume? [Click Me!!](https://bluayer.github.io/docs/resume.pdf)
 
 <h3>🔭 I’m currently working on ...</h3>
 <ul>
