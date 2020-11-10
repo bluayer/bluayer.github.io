@@ -46,14 +46,5 @@ I'm <b>Jungwoo Song</b>, junior backend developer from  <b>Seoul, Korea</b> 🇰
   <li>Blog: https://hack-jam.tistory.com</li>
 </ul>
 
----
-
-**Github Stats** (organization contribution is not included)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bluayer&hide=stars&show_icons=true&theme=dracula&count_private=true&line_height=32">
-</p>
-
----
 
 
