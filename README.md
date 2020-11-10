@@ -3,7 +3,7 @@
 <p>Welcome to my page!<br>
 I'm <b>Jungwoo Song</b>, junior backend developer from  <b>Seoul, Korea</b> 🇰🇷 </p>
 
-Do you wanna see my resume? [Click Me!!](https://bluayer.github.io/docs/resume.pdf)
+<b>Do you wanna see my resume?<b> [Click Me!!](https://bluayer.github.io/docs/resume.pdf)
 
 <h3>🔭 I’m currently working on ...</h3>
 <ul>
